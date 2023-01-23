@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="message">IMC é um parâmetro que é utilizado para avaliar se o peso está dentro do valor ideal para a altura. Pode ajudar a identificar problemas de obesidade ou desnutrição, em crianças, adolescentes, adultos e idosos. </string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+</resources>
