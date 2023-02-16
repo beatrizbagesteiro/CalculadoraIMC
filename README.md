@@ -15,8 +15,10 @@ Calculadora IMC foi o primeiro aplicativo que desenvolvi para Android. Resultado
     * LinearLayout
 - Components de UI
     - TextView
+    - ImageView
     - EditText
     - Button
+    
 - Toast para display de mensagens
 - Intent Explicita para abrir a segunda Activity
 - FindViewById para recuperar components de UI
